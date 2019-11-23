@@ -1,0 +1,40 @@
+@import '../../../palatte';
+
+:host {
+  margin-top: 15px;
+
+  &:first-of-type {
+    margin-top: 0;
+  }
+}
+
+.book-name {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.book-lines {
+  display: flex;
+  flex-direction: column;
+  margin-top: 5px;
+
+  > .line-entry {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+    > div {
+      padding: 5px;
+    }
+
+    > .betting-value {
+      background: $jelly-bean;
+    }
+
+    > .bet-type {
+      color: darken($white, 15%);
+      font-size: 14px;
+    }
+  }
+}

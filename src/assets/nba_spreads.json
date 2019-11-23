@@ -1,0 +1,1013 @@
+{
+  "success": true,
+  "data": [
+    {
+      "sport_key": "basketball_nba",
+      "sport_nice": "NBA",
+      "teams": [
+        "Atlanta Hawks",
+        "Detroit Pistons"
+      ],
+      "commence_time": 1574467800,
+      "home_team": "Detroit Pistons",
+      "sites": [
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": 1574464419,
+          "odds": {
+            "spreads": {
+              "odds": [
+                1.909,
+                1.909
+              ],
+              "points": [
+                "6.5",
+                "-6.5"
+              ]
+            }
+          }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": 1574464372,
+          "odds": {
+            "spreads": {
+              "odds": [
+                1.952,
+                1.952
+              ],
+              "points": [
+                "6.5",
+                "-6.5"
+              ]
+            }
+          }
+        },
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": 1574464603,
+          "odds": {
+            "spreads": {
+              "odds": [
+                1.909,
+                1.909
+              ],
+              "points": [
+                "6.0",
+                "-6.0"
+              ]
+            }
+          }
+        },
+        {
+          "site_key": "gtbets",
+          "site_nice": "GTbets",
+          "last_update": 1574464331,
+          "odds": {
+            "spreads": {
+              "odds": [
+                1.917,
+                1.917
+              ],
+              "points": [
+                "6",
+                "-6"
+              ]
+            }
+          }
+        }
+      ],
+      "sites_count": 4
+    },
+    {
+      "sport_key": "basketball_nba",
+      "sport_nice": "NBA",
+      "teams": [
+        "Charlotte Hornets",
+        "Washington Wizards"
+      ],
+      "commence_time": 1574467800,
+      "home_team": "Washington Wizards",
+      "sites": [
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": 1574464419,
+          "odds": {
+            "spreads": {
+              "odds": [
+                1.87,
+                1.952
+              ],
+              "points": [
+                "6",
+                "-6"
+              ]
+            }
+          }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": 1574464372,
+          "odds": {
+            "spreads": {
+              "odds": [
+                1.909,
+                2
+              ],
+              "points": [
+                "6",
+                "-6"
+              ]
+            }
+          }
+        },
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": 1574464603,
+          "odds": {
+            "spreads": {
+              "odds": [
+                1.909,
+                1.909
+              ],
+              "points": [
+                "6.0",
+                "-6.0"
+              ]
+            }
+          }
+        },
+        {
+          "site_key": "gtbets",
+          "site_nice": "GTbets",
+          "last_update": 1574464331,
+          "odds": {
+            "spreads": {
+              "odds": [
+                1.917,
+                1.917
+              ],
+              "points": [
+                "6",
+                "-6"
+              ]
+            }
+          }
+        }
+      ],
+      "sites_count": 4
+    },
+    {
+      "sport_key": "basketball_nba",
+      "sport_nice": "NBA",
+      "teams": [
+        "Brooklyn Nets",
+        "Sacramento Kings"
+      ],
+      "commence_time": 1574469600,
+      "home_team": "Brooklyn Nets",
+      "sites": [
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": 1574464372,
+          "odds": {
+            "spreads": {
+              "odds": [
+                1.943,
+                1.962
+              ],
+              "points": [
+                "-1",
+                "1"
+              ]
+            }
+          }
+        },
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": 1574464419,
+          "odds": {
+            "spreads": {
+              "odds": [
+                1.901,
+                1.917
+              ],
+              "points": [
+                "-1",
+                "1"
+              ]
+            }
+          }
+        },
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": 1574464603,
+          "odds": {
+            "spreads": {
+              "odds": [
+                1.952,
+                1.87
+              ],
+              "points": [
+                "-2.0",
+                "2.0"
+              ]
+            }
+          }
+        },
+        {
+          "site_key": "gtbets",
+          "site_nice": "GTbets",
+          "last_update": 1574464331,
+          "odds": {
+            "spreads": {
+              "odds": [
+                1.917,
+                1.917
+              ],
+              "points": [
+                "-1.5",
+                "1.5"
+              ]
+            }
+          }
+        }
+      ],
+      "sites_count": 4
+    },
+    {
+      "sport_key": "basketball_nba",
+      "sport_nice": "NBA",
+      "teams": [
+        "Philadelphia 76ers",
+        "San Antonio Spurs"
+      ],
+      "commence_time": 1574471400,
+      "home_team": "Philadelphia 76ers",
+      "sites": [
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": 1574464419,
+          "odds": {
+            "spreads": {
+              "odds": [
+                1.909,
+                1.909
+              ],
+              "points": [
+                "-7",
+                "7"
+              ]
+            }
+          }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": 1574464372,
+          "odds": {
+            "spreads": {
+              "odds": [
+                1.952,
+                1.952
+              ],
+              "points": [
+                "-7",
+                "7"
+              ]
+            }
+          }
+        },
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": 1574464603,
+          "odds": {
+            "spreads": {
+              "odds": [
+                1.909,
+                1.909
+              ],
+              "points": [
+                "-7.0",
+                "7.0"
+              ]
+            }
+          }
+        },
+        {
+          "site_key": "gtbets",
+          "site_nice": "GTbets",
+          "last_update": 1574464331,
+          "odds": {
+            "spreads": {
+              "odds": [
+                1.917,
+                1.917
+              ],
+              "points": [
+                "-7",
+                "7"
+              ]
+            }
+          }
+        }
+      ],
+      "sites_count": 4
+    },
+    {
+      "sport_key": "basketball_nba",
+      "sport_nice": "NBA",
+      "teams": [
+        "Chicago Bulls",
+        "Miami Heat"
+      ],
+      "commence_time": 1574471400,
+      "home_team": "Chicago Bulls",
+      "sites": [
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": 1574464419,
+          "odds": {
+            "spreads": {
+              "odds": [
+                1.909,
+                1.909
+              ],
+              "points": [
+                "4.5",
+                "-4.5"
+              ]
+            }
+          }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": 1574464372,
+          "odds": {
+            "spreads": {
+              "odds": [
+                1.952,
+                1.952
+              ],
+              "points": [
+                "4.5",
+                "-4.5"
+              ]
+            }
+          }
+        },
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": 1574464603,
+          "odds": {
+            "spreads": {
+              "odds": [
+                1.909,
+                1.909
+              ],
+              "points": [
+                "5.5",
+                "-5.5"
+              ]
+            }
+          }
+        },
+        {
+          "site_key": "gtbets",
+          "site_nice": "GTbets",
+          "last_update": 1574464331,
+          "odds": {
+            "spreads": {
+              "odds": [
+                1.917,
+                1.917
+              ],
+              "points": [
+                "4.5",
+                "-4.5"
+              ]
+            }
+          }
+        }
+      ],
+      "sites_count": 4
+    },
+    {
+      "sport_key": "basketball_nba",
+      "sport_nice": "NBA",
+      "teams": [
+        "Los Angeles Lakers",
+        "Oklahoma City Thunder"
+      ],
+      "commence_time": 1574471400,
+      "home_team": "Oklahoma City Thunder",
+      "sites": [
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": 1574464419,
+          "odds": {
+            "spreads": {
+              "odds": [
+                1.926,
+                1.893
+              ],
+              "points": [
+                "-4",
+                "4"
+              ]
+            }
+          }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": 1574464372,
+          "odds": {
+            "spreads": {
+              "odds": [
+                1.971,
+                1.935
+              ],
+              "points": [
+                "-4",
+                "4"
+              ]
+            }
+          }
+        },
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": 1574464603,
+          "odds": {
+            "spreads": {
+              "odds": [
+                1.909,
+                1.909
+              ],
+              "points": [
+                "-3.5",
+                "3.5"
+              ]
+            }
+          }
+        },
+        {
+          "site_key": "gtbets",
+          "site_nice": "GTbets",
+          "last_update": 1574464331,
+          "odds": {
+            "spreads": {
+              "odds": [
+                1.917,
+                1.917
+              ],
+              "points": [
+                "-3.5",
+                "3.5"
+              ]
+            }
+          }
+        }
+      ],
+      "sites_count": 4
+    },
+    {
+      "sport_key": "basketball_nba",
+      "sport_nice": "NBA",
+      "teams": [
+        "Cleveland Cavaliers",
+        "Dallas Mavericks"
+      ],
+      "commence_time": 1574473200,
+      "home_team": "Dallas Mavericks",
+      "sites": [
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": 1574464419,
+          "odds": {
+            "spreads": {
+              "odds": [
+                1.909,
+                1.909
+              ],
+              "points": [
+                "9.5",
+                "-9.5"
+              ]
+            }
+          }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": 1574464372,
+          "odds": {
+            "spreads": {
+              "odds": [
+                1.952,
+                1.952
+              ],
+              "points": [
+                "9.5",
+                "-9.5"
+              ]
+            }
+          }
+        },
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": 1574464603,
+          "odds": {
+            "spreads": {
+              "odds": [
+                1.909,
+                1.909
+              ],
+              "points": [
+                "10.0",
+                "-10.0"
+              ]
+            }
+          }
+        },
+        {
+          "site_key": "gtbets",
+          "site_nice": "GTbets",
+          "last_update": 1574464331,
+          "odds": {
+            "spreads": {
+              "odds": [
+                1.917,
+                1.917
+              ],
+              "points": [
+                "10",
+                "-10"
+              ]
+            }
+          }
+        }
+      ],
+      "sites_count": 4
+    },
+    {
+      "sport_key": "basketball_nba",
+      "sport_nice": "NBA",
+      "teams": [
+        "Boston Celtics",
+        "Denver Nuggets"
+      ],
+      "commence_time": 1574475000,
+      "home_team": "Denver Nuggets",
+      "sites": [
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": 1574464419,
+          "odds": {
+            "spreads": {
+              "odds": [
+                1.952,
+                1.87
+              ],
+              "points": [
+                "5",
+                "-5"
+              ]
+            }
+          }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": 1574464372,
+          "odds": {
+            "spreads": {
+              "odds": [
+                2,
+                1.909
+              ],
+              "points": [
+                "5",
+                "-5"
+              ]
+            }
+          }
+        },
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": 1574464603,
+          "odds": {
+            "spreads": {
+              "odds": [
+                1.909,
+                1.909
+              ],
+              "points": [
+                "5.5",
+                "-5.5"
+              ]
+            }
+          }
+        },
+        {
+          "site_key": "gtbets",
+          "site_nice": "GTbets",
+          "last_update": 1574464331,
+          "odds": {
+            "spreads": {
+              "odds": [
+                1.917,
+                1.917
+              ],
+              "points": [
+                "5.5",
+                "-5.5"
+              ]
+            }
+          }
+        }
+      ],
+      "sites_count": 4
+    },
+    {
+      "sport_key": "basketball_nba",
+      "sport_nice": "NBA",
+      "teams": [
+        "Golden State Warriors",
+        "Utah Jazz"
+      ],
+      "commence_time": 1574475000,
+      "home_team": "Utah Jazz",
+      "sites": [
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": 1574464419,
+          "odds": {
+            "spreads": {
+              "odds": [
+                1.917,
+                1.901
+              ],
+              "points": [
+                "16",
+                "-16"
+              ]
+            }
+          }
+        },
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": 1574464372,
+          "odds": {
+            "spreads": {
+              "odds": [
+                1.962,
+                1.943
+              ],
+              "points": [
+                "16",
+                "-16"
+              ]
+            }
+          }
+        },
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": 1574464603,
+          "odds": {
+            "spreads": {
+              "odds": [
+                1.909,
+                1.909
+              ],
+              "points": [
+                "16.0",
+                "-16.0"
+              ]
+            }
+          }
+        },
+        {
+          "site_key": "gtbets",
+          "site_nice": "GTbets",
+          "last_update": 1574464331,
+          "odds": {
+            "spreads": {
+              "odds": [
+                1.917,
+                1.917
+              ],
+              "points": [
+                "16",
+                "-16"
+              ]
+            }
+          }
+        }
+      ],
+      "sites_count": 4
+    },
+    {
+      "sport_key": "basketball_nba",
+      "sport_nice": "NBA",
+      "teams": [
+        "Houston Rockets",
+        "Los Angeles Clippers"
+      ],
+      "commence_time": 1574480400,
+      "home_team": "Los Angeles Clippers",
+      "sites": [
+        {
+          "site_key": "lowvig",
+          "site_nice": "LowVig.ag",
+          "last_update": 1574464372,
+          "odds": {
+            "spreads": {
+              "odds": [
+                1.98,
+                1.926
+              ],
+              "points": [
+                "5.5",
+                "-5.5"
+              ]
+            }
+          }
+        },
+        {
+          "site_key": "betonlineag",
+          "site_nice": "BetOnline.ag",
+          "last_update": 1574464419,
+          "odds": {
+            "spreads": {
+              "odds": [
+                1.935,
+                1.885
+              ],
+              "points": [
+                "5.5",
+                "-5.5"
+              ]
+            }
+          }
+        },
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": 1574464603,
+          "odds": {
+            "spreads": {
+              "odds": [
+                1.909,
+                1.909
+              ],
+              "points": [
+                "5.5",
+                "-5.5"
+              ]
+            }
+          }
+        },
+        {
+          "site_key": "gtbets",
+          "site_nice": "GTbets",
+          "last_update": 1574464331,
+          "odds": {
+            "spreads": {
+              "odds": [
+                1.917,
+                1.917
+              ],
+              "points": [
+                "5.5",
+                "-5.5"
+              ]
+            }
+          }
+        }
+      ],
+      "sites_count": 4
+    },
+    {
+      "sport_key": "basketball_nba",
+      "sport_nice": "NBA",
+      "teams": [
+        "Minnesota Timberwolves",
+        "Phoenix Suns"
+      ],
+      "commence_time": 1574547000,
+      "home_team": "Minnesota Timberwolves",
+      "sites": [],
+      "sites_count": 0
+    },
+    {
+      "sport_key": "basketball_nba",
+      "sport_nice": "NBA",
+      "teams": [
+        "Charlotte Hornets",
+        "Chicago Bulls"
+      ],
+      "commence_time": 1574554200,
+      "home_team": "Charlotte Hornets",
+      "sites": [
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": 1574464603,
+          "odds": {
+            "spreads": {
+              "odds": [
+                1.909,
+                1.909
+              ],
+              "points": [
+                "1.0",
+                "-1.0"
+              ]
+            }
+          }
+        }
+      ],
+      "sites_count": 1
+    },
+    {
+      "sport_key": "basketball_nba",
+      "sport_nice": "NBA",
+      "teams": [
+        "Indiana Pacers",
+        "Orlando Magic"
+      ],
+      "commence_time": 1574554200,
+      "home_team": "Indiana Pacers",
+      "sites": [],
+      "sites_count": 0
+    },
+    {
+      "sport_key": "basketball_nba",
+      "sport_nice": "NBA",
+      "teams": [
+        "Miami Heat",
+        "Philadelphia 76ers"
+      ],
+      "commence_time": 1574556000,
+      "home_team": "Philadelphia 76ers",
+      "sites": [
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": 1574464603,
+          "odds": {
+            "spreads": {
+              "odds": [
+                1.909,
+                1.909
+              ],
+              "points": [
+                "4.0",
+                "-4.0"
+              ]
+            }
+          }
+        }
+      ],
+      "sites_count": 1
+    },
+    {
+      "sport_key": "basketball_nba",
+      "sport_nice": "NBA",
+      "teams": [
+        "New York Knicks",
+        "San Antonio Spurs"
+      ],
+      "commence_time": 1574556000,
+      "home_team": "New York Knicks",
+      "sites": [
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": 1574464603,
+          "odds": {
+            "spreads": {
+              "odds": [
+                1.909,
+                1.909
+              ],
+              "points": [
+                "2.0",
+                "-2.0"
+              ]
+            }
+          }
+        }
+      ],
+      "sites_count": 1
+    },
+    {
+      "sport_key": "basketball_nba",
+      "sport_nice": "NBA",
+      "teams": [
+        "Atlanta Hawks",
+        "Toronto Raptors"
+      ],
+      "commence_time": 1574556000,
+      "home_team": "Atlanta Hawks",
+      "sites": [
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": 1574464603,
+          "odds": {
+            "spreads": {
+              "odds": [
+                1.909,
+                1.909
+              ],
+              "points": [
+                "7.0",
+                "-7.0"
+              ]
+            }
+          }
+        }
+      ],
+      "sites_count": 1
+    },
+    {
+      "sport_key": "basketball_nba",
+      "sport_nice": "NBA",
+      "teams": [
+        "Los Angeles Lakers",
+        "Memphis Grizzlies"
+      ],
+      "commence_time": 1574557800,
+      "home_team": "Memphis Grizzlies",
+      "sites": [
+        {
+          "site_key": "mybookieag",
+          "site_nice": "MyBookie.ag",
+          "last_update": 1574464603,
+          "odds": {
+            "spreads": {
+              "odds": [
+                1.909,
+                1.909
+              ],
+              "points": [
+                "-7.5",
+                "7.5"
+              ]
+            }
+          }
+        }
+      ],
+      "sites_count": 1
+    },
+    {
+      "sport_key": "basketball_nba",
+      "sport_nice": "NBA",
+      "teams": [
+        "Cleveland Cavaliers",
+        "Portland Trail Blazers"
+      ],
+      "commence_time": 1574557800,
+      "home_team": "Cleveland Cavaliers",
+      "sites": [],
+      "sites_count": 0
+    },
+    {
+      "sport_key": "basketball_nba",
+      "sport_nice": "NBA",
+      "teams": [
+        "Dallas Mavericks",
+        "Houston Rockets"
+      ],
+      "commence_time": 1574628000,
+      "home_team": "Houston Rockets",
+      "sites": [],
+      "sites_count": 0
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+<div class="book-name">{{sportsBook.siteName}}</div>
+<div class="book-lines">
+  <div class="line-entry">
+    <div *ngIf="sportsBook.awayOdds; else no_line" [class.betting-value]="sportsBook.awaySpread | spreadValue:projectedAwayScore:projectedHomeScore:'away'">
+      <span *ngIf="sportsBook.awaySpread > 0">+</span>{{sportsBook.awaySpread}}
+      (<span *ngIf="sportsBook.awayOdds > 0">+</span>{{sportsBook.awayOdds | number:'1.0-0'}})
+    </div>
+    <div class="bet-type">Spread</div>
+    <div *ngIf="sportsBook.homeOdds; else no_line" [class.betting-value]="sportsBook.homeSpread | spreadValue:projectedAwayScore:projectedHomeScore:'home'">
+      <span *ngIf="sportsBook.homeSpread > 0">+</span>{{sportsBook.homeSpread}}
+      (<span *ngIf="sportsBook.homeOdds > 0">+</span>{{sportsBook.homeOdds | number:'1.0-0'}})
+    </div>
+  </div>
+  <div class="line-entry">
+    <div *ngIf="sportsBook.awayMoneyLine; else no_line">
+      <span *ngIf="sportsBook.awayMoneyLine > 0">+</span>{{sportsBook.awayMoneyLine | number:'1.0-0'}}
+    </div>
+    <div class="bet-type">MoneyLine</div>
+    <div *ngIf="sportsBook.homeMoneyLine; else no_line">
+      <span *ngIf="sportsBook.homeMoneyLine > 0">+</span>{{sportsBook.homeMoneyLine | number:'1.0-0'}}
+    </div>
+  </div>
+  <div class="line-entry">
+    <div *ngIf="sportsBook.underOdds; else no_line" [class.betting-value]="sportsBook.underTotal | overUnderValue:projectedAwayScore:projectedHomeScore:'under'">
+      U {{sportsBook.underTotal}}
+      (<span *ngIf="sportsBook.underOdds > 0">+</span>{{sportsBook.underOdds | number:'1.0-0'}})
+    </div>
+    <div class="bet-type">Over/Under</div>
+    <div *ngIf="sportsBook.overOdds; else no_line" [class.betting-value]="sportsBook.overTotal | overUnderValue:projectedAwayScore:projectedHomeScore:'over'">
+      O {{sportsBook.overTotal}}
+      (<span *ngIf="sportsBook.overOdds> 0">+</span>{{sportsBook.overOdds | number:'1.0-0'}})
+    </div>
+  </div>
+</div>
+
+<ng-template #no_line>
+  <div>--</div>
+</ng-template>

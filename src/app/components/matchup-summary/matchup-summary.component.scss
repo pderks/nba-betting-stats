@@ -1,0 +1,59 @@
+@import '../../../palatte';
+
+:host {
+  display: flex;
+  flex-direction: column;
+  min-width: 300px;
+  margin-bottom: 10px;
+  padding: 15px;
+  background: $space-gray;
+  border: 1px solid $orange;
+  border-radius: 4px;
+}
+
+.matchup-teams-container {
+  display: flex;
+  flex-direction: row;
+  min-width: 100%;
+
+  > .team-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: calc(50% - 5px);
+  }
+
+  > .location-indicator {
+    display: flex;
+    align-items: center;
+    width: 10px;
+  }
+}
+
+.matchup-time {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin: 10px 0;
+  font-size: 12px;
+  color: darken($white, 20%);
+}
+
+.matchup-stats {
+  display: flex;
+  flex-direction: column;
+
+  > .stat {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 10px;
+  }
+}
+
+.matchup-lines {
+  display: flex;
+  flex-direction: column;
+  border-top: 1px solid $lavender;
+  padding: 5px 0;
+}

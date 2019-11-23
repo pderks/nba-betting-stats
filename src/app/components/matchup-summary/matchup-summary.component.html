@@ -1,0 +1,45 @@
+<div class="matchup-teams-container">
+  <div class="team-info">
+      <img src="assets/images/team-logos/{{game.awayTeam.Abbreviation}}.png"
+      height="100" width="100">
+    <div>{{game.awayTeam.City}}</div>
+    <div>{{game.awayTeam.Name}}</div>
+  </div>
+  <div class="location-indicator">@</div>
+  <div class="team-info">
+    <img src="assets/images/team-logos/{{game.homeTeam.Abbreviation}}.png"
+      height="100" width="100">
+    <div>{{game.homeTeam.City}}</div>
+    <div>{{game.homeTeam.Name}}</div>
+  </div>
+</div>
+
+<div class="matchup-time">
+  {{game.dateTime | date:'medium'}}
+</div>
+
+<div class="matchup-stats">
+  <div class="stat">
+    <div>{{projectedAwayScore | number:'1.0-1'}}</div>
+    <div>Projected Score</div>
+    <div>{{projectedHomeScore | number:'1.0-1'}}</div>
+  </div>
+  <div class="stat">
+    <div>{{projectedAwaySpread | number:'1.0-1'}}</div>
+    <div>Projected Spread</div>
+    <div>{{projectedHomeSpread | number:'1.0-1'}}</div>
+  </div>
+  <div class="stat">
+    <div>U {{projectedTotal | number:'1.0-1'}}</div>
+    <div>Projected Total</div>
+    <div>O {{projectedTotal | number:'1.0-1'}}</div>
+  </div>
+</div>
+
+<div class="matchup-lines">
+  <book-lines *ngFor="let book of sportsBookLines"
+    [sportsBook]="book"
+    [projectedAwayScore]="projectedAwayScore"
+    [projectedHomeScore]="projectedHomeScore">
+  </book-lines>
+</div>
