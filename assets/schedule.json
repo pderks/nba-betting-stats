@@ -1,0 +1,161 @@
+{
+    "dailygameschedule": {
+        "lastUpdatedOn": "2019-11-13 11:12:10 PM",
+        "gameentry": [
+            {
+                "id": "53197",
+                "scheduleStatus": "Normal",
+                "originalDate": null,
+                "originalTime": null,
+                "delayedOrPostponedReason": null,
+                "date": "2019-11-13",
+                "time": "7:00PM",
+                "awayTeam": {
+                    "ID": "85",
+                    "City": "Philadelphia",
+                    "Name": "76ers",
+                    "Abbreviation": "PHI"
+                },
+                "homeTeam": {
+                    "ID": "95",
+                    "City": "Orlando",
+                    "Name": "Magic",
+                    "Abbreviation": "ORL"
+                },
+                "location": "Amway Center"
+            },
+            {
+                "id": "53198",
+                "scheduleStatus": "Normal",
+                "originalDate": null,
+                "originalTime": null,
+                "delayedOrPostponedReason": null,
+                "date": "2019-11-13",
+                "time": "7:00PM",
+                "awayTeam": {
+                    "ID": "107",
+                    "City": "Memphis",
+                    "Name": "Grizzlies",
+                    "Abbreviation": "MEM"
+                },
+                "homeTeam": {
+                    "ID": "93",
+                    "City": "Charlotte",
+                    "Name": "Hornets",
+                    "Abbreviation": "CHA"
+                },
+                "location": "Spectrum Center"
+            },
+            {
+                "id": "53195",
+                "scheduleStatus": "Normal",
+                "originalDate": null,
+                "originalTime": null,
+                "delayedOrPostponedReason": null,
+                "date": "2019-11-13",
+                "time": "7:30PM",
+                "awayTeam": {
+                    "ID": "102",
+                    "City": "Los Angeles",
+                    "Name": "Clippers",
+                    "Abbreviation": "LAC"
+                },
+                "homeTeam": {
+                    "ID": "109",
+                    "City": "Houston",
+                    "Name": "Rockets",
+                    "Abbreviation": "HOU"
+                },
+                "location": "Toyota Center"
+            },
+            {
+                "id": "53196",
+                "scheduleStatus": "Normal",
+                "originalDate": null,
+                "originalTime": null,
+                "delayedOrPostponedReason": null,
+                "date": "2019-11-13",
+                "time": "7:30PM",
+                "awayTeam": {
+                    "ID": "94",
+                    "City": "Washington",
+                    "Name": "Wizards",
+                    "Abbreviation": "WAS"
+                },
+                "homeTeam": {
+                    "ID": "82",
+                    "City": "Boston",
+                    "Name": "Celtics",
+                    "Abbreviation": "BOS"
+                },
+                "location": "TD Garden"
+            },
+            {
+                "id": "53194",
+                "scheduleStatus": "Normal",
+                "originalDate": null,
+                "originalTime": null,
+                "delayedOrPostponedReason": null,
+                "date": "2019-11-13",
+                "time": "8:00PM",
+                "awayTeam": {
+                    "ID": "106",
+                    "City": "San Antonio",
+                    "Name": "Spurs",
+                    "Abbreviation": "SAS"
+                },
+                "homeTeam": {
+                    "ID": "100",
+                    "City": "Minnesota",
+                    "Name": "Timberwolves",
+                    "Abbreviation": "MIN"
+                },
+                "location": "Target Center"
+            },
+            {
+                "id": "53192",
+                "scheduleStatus": "Normal",
+                "originalDate": null,
+                "originalTime": null,
+                "delayedOrPostponedReason": null,
+                "date": "2019-11-13",
+                "time": "10:00PM",
+                "awayTeam": {
+                    "ID": "81",
+                    "City": "Toronto",
+                    "Name": "Raptors",
+                    "Abbreviation": "TOR"
+                },
+                "homeTeam": {
+                    "ID": "97",
+                    "City": "Portland",
+                    "Name": "Trail Blazers",
+                    "Abbreviation": "POR"
+                },
+                "location": "Moda Center"
+            },
+            {
+                "id": "53193",
+                "scheduleStatus": "Normal",
+                "originalDate": null,
+                "originalTime": null,
+                "delayedOrPostponedReason": null,
+                "date": "2019-11-13",
+                "time": "10:00PM",
+                "awayTeam": {
+                    "ID": "101",
+                    "City": "Golden State",
+                    "Name": "Warriors",
+                    "Abbreviation": "GSW"
+                },
+                "homeTeam": {
+                    "ID": "105",
+                    "City": "Los Angeles",
+                    "Name": "Lakers",
+                    "Abbreviation": "LAL"
+                },
+                "location": "Staples Center"
+            }
+        ]
+    }
+}
